@@ -1,7 +1,11 @@
+
+
 # Hello I'm Maxuel Morillo🧑🏾‍💻🔥🚀 <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width=75px>
 ## Development
 
-### 👌 Skills
+
+
+### 👾 Skills
 ![Node](https://img.shields.io/badge/nodedotjs-white?style=for-the-badge&logo=nodedotjs)
 ![HTML](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=blue)
@@ -17,8 +21,9 @@
 ### 🔉 Contact Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxuel-morillo-cuevas/)
-
-
+### 📊GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxuel09&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuel09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Maxuel09
 - 👀 I’m interested in ...
