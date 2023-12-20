@@ -1,4 +1,4 @@
-![Descripción de la imagen](Documentos/Descargas/bannerMax.jpg)
+<img src="bannerMax.jpg">
 
 
 
