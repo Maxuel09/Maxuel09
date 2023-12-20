@@ -1,4 +1,4 @@
-<img src="bannerMax.jpg">
+<img src="bannerM.png">
 
 
 
