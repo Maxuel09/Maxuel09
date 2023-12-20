@@ -1,7 +1,7 @@
 # Hello I'm Maxuel Morillo🧑🏾‍💻🔥🚀 <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width=75px>
 ## Development
 
-### Skills
+### 👌 Skills
 ![Node](https://img.shields.io/badge/nodedotjs-white?style=for-the-badge&logo=nodedotjs)
 ![HTML](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=blue)
@@ -13,6 +13,10 @@
 ![python](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue)
 ![python](https://img.shields.io/badge/GoogleColab-white?style=for-the-badge&logo=googlecolab)
 ![python](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=blue)
+
+### 🔉 Contact Me
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxuel-morillo-cuevas/)
 
 
 
