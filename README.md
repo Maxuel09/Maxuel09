@@ -2,13 +2,17 @@
 ## Development
 
 ### Skills
-![Static Badge](https://img.shields.io/badge/nodedotjs-white?style=for-the-badge&logo=nodedotjs)
-![Static Badge](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)
-![Static Badge](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=red)
-
-
-
+![Node](https://img.shields.io/badge/nodedotjs-white?style=for-the-badge&logo=nodedotjs)
+![HTML](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=blue)
+![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=red)
+![Boostrap](https://img.shields.io/badge/Boostrap-white?style=for-the-badge&logo=bootstrap)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git)
+<br>
+![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python)
+![python](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue)
+![python](https://img.shields.io/badge/GoogleColab-white?style=for-the-badge&logo=googlecolab)
+![python](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=blue)
 
 
 
