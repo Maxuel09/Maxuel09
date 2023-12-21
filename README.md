@@ -25,7 +25,7 @@ Now another stage of my life has begun where I am training as a Full Stack and I
 ![python](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=blue)
 
 ### 🔉 Contact Me
-
+<a href="maxuelmorillocuevas@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxuel-morillo-cuevas/)
 ### 📊GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxuel09&theme=dracula&show_icons=true)
