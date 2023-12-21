@@ -3,8 +3,9 @@
 
 
 
-# Hello I'm Maxuel Morillo🧑🏾‍💻🔥🚀 <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width=60px>
-## Development
+# Hello I'm Maxuel Morillo🔥🚀 <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width=60px>
+
+### 🧑🏾‍💻 About me
 
 
 
@@ -15,6 +16,7 @@
 ![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=red)
 ![Boostrap](https://img.shields.io/badge/Boostrap-white?style=for-the-badge&logo=bootstrap)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git)
+![jest](https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=%23C21325)
 <br>
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python)
 ![python](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue)
