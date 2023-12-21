@@ -1,4 +1,4 @@
-<img src="bannerM.png" width=100%>
+<img src="bannerMax_upscaled.jpg" width=100%>
 
 
 
