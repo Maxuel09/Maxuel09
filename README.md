@@ -26,7 +26,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxuel-morillo-cuevas/)
 ### 📊GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxuel09&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuel09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuel09&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Maxuel09
 - 👀 I’m interested in ...
