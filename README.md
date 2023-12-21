@@ -6,7 +6,8 @@
 # Hello I'm Maxuel Morillo🔥🚀 <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width=60px>
 
 ### 🧑🏾‍💻 About me
-
+Thank you for visiting my profile, a short story and I successfully completed my Big Data certificate.<br> 
+Now another stage of my life has begun where I am training as a Full Stack and I am very excited to continue training and enter the world of work.💻📈
 
 
 ### 👾 Skills
