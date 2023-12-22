@@ -11,7 +11,7 @@ Now another stage of my life has begun where I am training as a Full Stack and I
 
 
 ### 👾 Skills
-![Node](https://img.shields.io/badge/nodedotjs-white?style=for-the-badge&logo=nodedotjs)
+![Node](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs)
 ![HTML](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=blue)
 ![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=red)
