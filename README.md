@@ -11,6 +11,7 @@ Now another stage of my life has begun where I am training as a Full Stack and I
 
 
 ### 👾 Skills
+#### Web dev
 ![Node](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs)
 ![HTML](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=blue)
@@ -18,11 +19,15 @@ Now another stage of my life has begun where I am training as a Full Stack and I
 ![Boostrap](https://img.shields.io/badge/Boostrap-white?style=for-the-badge&logo=bootstrap)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git)
 ![jest](https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=%23C21325)
+![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
 <br>
+#### Data analistics
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python)
 ![python](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue)
 ![python](https://img.shields.io/badge/GoogleColab-white?style=for-the-badge&logo=googlecolab)
 ![python](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Sklearn-white?style=for-the-badge&logo=scikitlearn)
+
 
 ### 🔉 Contact Me
 <a href="maxuelmorillocuevas@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
