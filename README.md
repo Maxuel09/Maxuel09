@@ -27,7 +27,7 @@ Now another stage of my life has begun where I am training as a Full Stack and I
 ![python](https://img.shields.io/badge/GoogleColab-white?style=for-the-badge&logo=googlecolab)
 ![python](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Sklearn-white?style=for-the-badge&logo=scikitlearn)
-![Static Badge](https://img.shields.io/badge/Excel-white?style=for-the-badge&logo=microsoftexcel&labelColor=%23217346)
+
 
 
 ### 🔉 Contact Me
