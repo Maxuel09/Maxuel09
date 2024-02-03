@@ -11,28 +11,21 @@ Now another stage of my life has begun where I am training as a Full Stack and I
 
 
 ### 👾 Skills
-#### Web dev
-![Node](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs)
-![HTML](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=blue)
-![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=red)
-![Boostrap](https://img.shields.io/badge/Boostrap-white?style=for-the-badge&logo=bootstrap)
-![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git)
-![jest](https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=%23C21325)
-![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
-<br>
-#### Data analistics
-![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python)
-![python](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue)
-![python](https://img.shields.io/badge/GoogleColab-white?style=for-the-badge&logo=googlecolab)
-![python](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/Sklearn-white?style=for-the-badge&logo=scikitlearn)
+<div>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="50">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="50">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="50">
+</div>
 
 
 
 ### 🔉 Contact Me
-<a href="maxuelmorillocuevas@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxuel-morillo-cuevas/)
+<a href="https://www.linkedin.com/in/maxuel-morillo-cuevas/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"></a>
 ### 📊GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxuel09&theme=dracula&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuel09&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
